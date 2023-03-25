@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "C19dNUTS"]
+	path = C19dNUTS
+	url = https://github.com/cran/C19dNUTS
+	shallow = true
+	registered = true
